@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # PPT Files 
-*.ppt
-*.pptx
+# *.ppt
+# *.pptx
+*temp/
