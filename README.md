@@ -1,5 +1,10 @@
-# Deep-Learning-Notes
+# Deep-Learning-Notes  
+
+Update: For _the webinar conducted on 12th April 2020_ for Facebook Developer Circles, Sweden in association with People in Data, the Juypter Notebooks with full source code along with the link of the webinar recording are present in the `PyTorch Image Classification in 2020` folder.  
+
+------------
 My handwritten notes from Udacity's Deep Learning Course.  
+
 
 <br/>PDF file, `Udacity-Deep-Learning-Notes.pdf`, has the notes.  
 There's also a presentation on Neural Networks inside the `Introduction to Neural Networks` folder.  
