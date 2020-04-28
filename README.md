@@ -1,6 +1,13 @@
 # Deep-Learning-Notes  
 
-Update: For _the webinar conducted on 12th April 2020_ for Facebook Developer Circles, Sweden in association with People in Data, the Juypter Notebooks with full source code along with the link of the webinar recording are present in the `PyTorch Image Classification in 2020` folder.  
+Update 29th April 2020: Added Kevin Markham's Data School's new Data Science course notes in the `Kevin's Data Science Class Notes` folder.
+
+
+Update 22nd April 2020: My Jupyter Notebook on PyTorch for the Webinar conducted for Facebook Developer Circles, Sweden, has been translated to Turkish. All credit goes to [Merve Ayyüce KIZRAK](https://www.linkedin.com/in/merve-ayyuce-kizrak/).  
+Translated Notebook Repository: https://github.com/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma
+
+
+Update 16th April 2020: For _the webinar conducted on 12th April 2020_ for Facebook Developer Circles, Sweden in association with People in Data, the Juypter Notebooks with full source code along with the link of the webinar recording are present in the `PyTorch Image Classification in 2020` folder.  
 
 ------------
 My handwritten notes from Udacity's Deep Learning Course.  
