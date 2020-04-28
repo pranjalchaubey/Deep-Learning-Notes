@@ -7,6 +7,8 @@ The `Image_Classification_practice.ipynb` is the notebook I used to code live du
 
 For bonus content, please refer `Image_Classification_master.ipynb` only (content will be added soon).  
 
-_**Webinar recording: https://youtu.be/eAVWos2-qp0**_
+_**Webinar recording: https://youtu.be/eAVWos2-qp0**_  
 
-
+------------
+This work has been translated to Turkish as well, thanks to [Merve Ayyüce KIZRAK](https://www.linkedin.com/in/merve-ayyuce-kizrak/).  
+Translated Notebook Repository: https://github.com/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma 
